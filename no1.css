@@ -1,0 +1,14 @@
+*{
+    margin: 5; 
+    padding: 5;
+}
+h1{
+    color: #fd0202; 
+}
+p{
+    color: #34df00; 
+}
+h2{
+    color: #0029df;
+    border: 3px solid #34df00;   
+}
